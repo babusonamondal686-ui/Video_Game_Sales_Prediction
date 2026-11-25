@@ -74,7 +74,7 @@ The dataset is used to explore sales performance and analyze patterns across dif
 
 **Babusona Mondal**
 
-BCA Student | Aspiring Data Scientist and Machine Learning Developer
+BCA Student | Aspiring Machine Learning Developer
 
 ## 📜 License
 
